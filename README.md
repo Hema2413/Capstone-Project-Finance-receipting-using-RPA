@@ -1,1 +1,0 @@
-# Capstone-Project-Finance-receipting-using-RPA
